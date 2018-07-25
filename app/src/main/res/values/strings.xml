@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Manchester United News</string>
+    <string name="no_connection">No connection</string>
+    <string name="no_news">No News</string>
+    <string name="second">second</string>
+    <string name="minute">minute</string>
+    <string name="hour">hour</string>
+    <string name="day">day</string>
+    <string name="month">month</string>
+    <string name="year">year</string>
+    <string name="ago">ago</string>
+</resources>
